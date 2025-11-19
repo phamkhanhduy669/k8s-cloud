@@ -2,6 +2,7 @@
 <img width="1502" height="206" alt="image" src="https://github.com/user-attachments/assets/1f731fb0-1fc3-42e5-9add-5f5d231f48b0" />
 <img width="1505" height="855" alt="image" src="https://github.com/user-attachments/assets/312f0f63-5ba7-4b52-a015-ca9e474224fa" />
 <img width="1620" height="1010" alt="image" src="https://github.com/user-attachments/assets/1810273c-6fc5-4c5d-a24d-5cf889dcb4bc" />
+
 ### Monitoring qua google cloud, tạo alert khi CPU vượt quá 80% rồi gửi thông báo về webhook
 1. Tiến hành test với 1000 user cùng request qua JMeter
 2. Alert thông báo khi CPU vượt quá 80% trong 1 phút
